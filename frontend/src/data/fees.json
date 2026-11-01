@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "studentId": "STU001",
+    "studentName": "Aarav Sharma",
+    "rollNumber": 1,
+    "class": "10",
+    "totalFees": 85000,
+    "paid": 85000,
+    "due": 0,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "studentId": "STU002",
+    "studentName": "Ananya Patil",
+    "rollNumber": 2,
+    "class": "10",
+    "totalFees": 85000,
+    "paid": 60000,
+    "due": 25000,
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "studentId": "STU003",
+    "studentName": "Vihaan Mehta",
+    "rollNumber": 3,
+    "class": "10",
+    "totalFees": 85000,
+    "paid": 40000,
+    "due": 45000,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "studentId": "STU004",
+    "studentName": "Isha Deshmukh",
+    "rollNumber": 4,
+    "class": "10",
+    "totalFees": 85000,
+    "paid": 85000,
+    "due": 0,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "studentId": "STU005",
+    "studentName": "Arjun Kulkarni",
+    "rollNumber": 5,
+    "class": "9",
+    "totalFees": 75000,
+    "paid": 50000,
+    "due": 25000,
+    "status": "Pending"
+  },
+  {
+    "id": 6,
+    "studentId": "STU006",
+    "studentName": "Sara Khan",
+    "rollNumber": 6,
+    "class": "9",
+    "totalFees": 75000,
+    "paid": 75000,
+    "due": 0,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "studentId": "STU007",
+    "studentName": "Kabir Joshi",
+    "rollNumber": 7,
+    "class": "9",
+    "totalFees": 75000,
+    "paid": 30000,
+    "due": 45000,
+    "status": "Overdue"
+  },
+  {
+    "id": 8,
+    "studentId": "STU008",
+    "studentName": "Myra Shah",
+    "rollNumber": 8,
+    "class": "8",
+    "totalFees": 70000,
+    "paid": 70000,
+    "due": 0,
+    "status": "Paid"
+  }
+]

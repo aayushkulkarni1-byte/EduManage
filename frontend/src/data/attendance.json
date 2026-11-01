@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "date": "2026-10-03",
+    "studentId": "STU001",
+    "studentName": "Vigesh Nair",
+    "class": "10",
+    "section": "A",
+    "status": "Present"
+  },
+  {
+    "id": 2,
+    "date": "2026-10-03",
+    "studentId": "STU002",
+    "studentName": "Ananya Patil",
+    "class": "10",
+    "section": "A",
+    "status": "Present"
+  },
+  {
+    "id": 3,
+    "date": "2026-10-03",
+    "studentId": "STU003",
+    "studentName": "Vihaan Mehta",
+    "class": "10",
+    "section": "A",
+    "status": "Late"
+  },
+  {
+    "id": 4,
+    "date": "2026-10-03",
+    "studentId": "STU004",
+    "studentName": "Isha Deshmukh",
+    "class": "10",
+    "section": "B",
+    "status": "Present"
+  },
+  {
+    "id": 5,
+    "date": "2026-10-03",
+    "studentId": "STU005",
+    "studentName": "Arjun Kulkarni",
+    "class": "9",
+    "section": "A",
+    "status": "Absent"
+  },
+  {
+    "id": 6,
+    "date": "2026-10-03",
+    "studentId": "STU006",
+    "studentName": "Sara Khan",
+    "class": "9",
+    "section": "A",
+    "status": "Present"
+  },
+  {
+    "id": 7,
+    "date": "2026-10-03",
+    "studentId": "STU007",
+    "studentName": "Kabir Joshi",
+    "class": "9",
+    "section": "B",
+    "status": "Present"
+  },
+  {
+    "id": 8,
+    "date": "2026-10-03",
+    "studentId": "STU008",
+    "studentName": "Myra Shah",
+    "class": "8",
+    "section": "A",
+    "status": "Present"
+  }
+]
